@@ -6,7 +6,7 @@
 
 <div>
   <p align="center">
-    <img src="https://github.com/unos0923/svg/raw/main/devops.png" width="1400" height="700" />
+    <img src="https://github.com/unos0923/svg/raw/main/devops.png" width="1200" height="400" />
   </p>
 </div>
 
